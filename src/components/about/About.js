@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/Me-about.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -22,25 +22,22 @@ const About = () => {
             <div className="about__cards">
               <article className="about__card">
                 <FaAward className='about__icon'/>
-                <h5>Experience</h5>
-                <small> 3+ Years Working </small>
+                <h5>Bachelor's degree in Math</h5>
+                <small>Lviv National Univercity</small>
               </article>
-              <article className="about__card">
-                <FiUsers className='about__icon'/>
-                <h5>Clients</h5>
-                <small> 200+ Worldwide</small>
-              </article>
+             
               <article className="about__card">
                 <VscFolderLibrary className='about__icon'/>
-                <h5>Projects</h5>
-                <small> 80+ Complited</small>
+                <h5>Frontend Courses</h5>
+                <small>Cursor <br />SoftServe React Marathon</small>
               </article>
             </div>
             
             <p>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-              when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+              Hello, I'm Sofia! <br />
+            I'm young and motivated Frontend Developer with creative mind. 
+            I've been into professional   classic music for a 10 years,
+            but decided to have bachelor of math then to mix my art with more strategic mind.
             </p>
             
             <a href='#contact' className='btn btn-primary'>Let's talk</a>

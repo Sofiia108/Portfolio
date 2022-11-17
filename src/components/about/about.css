@@ -6,6 +6,9 @@ section > h2 {
     padding-bottom: 1.5vh;
 }
 
+p {
+    padding:  3% 0 3% 0;
+}
 .about__container {
     display: grid;
     grid-template-columns: 35% 50%;
@@ -39,7 +42,7 @@ section > h2 {
     
 .about__cards{
     display: grid; 
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
 } 
 
