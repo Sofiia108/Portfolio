@@ -11,21 +11,18 @@ const data = [
     image: IMG1,
     title: 'Cursor Frontend Course',
     github: "https://github.com/Sofiia108/Sofiia108.github.io",
-    //demo: "https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization"
   },
   {
     id: 2,
     image: IMG2, 
     title: 'SoftServe React Marathon',
     github: "https://github.com/Sofiia108/softserve-react-marathon-2021",
-    demo: "https://dribbble.com/shots/16588766-Orion-UI-kit-Charts-templates-infographics-in-Figma"
   },
   {
     id: 3, 
     image: IMG3,
     title: 'React Hooks Project',
-    github: "https://github.com", 
-    demo: "https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-Ul-kit-for-data-design-web-apps"
+    github: "https://github.com/Sofiia108/React-Hooks-Project", 
   },
 
 ];
@@ -47,7 +44,7 @@ const Portfolio = () => {
                   </div>
                     <h3 className='portfolio__item-text'>{title}</h3>
                     <div className="portfolio__item-cta">
-                      <a href={github} className='btn' target={demo}>Github</a>
+                      <a href={github} className='btn' target='_Blank'>Github</a>
                     </div>
                 </article>
                 ) 
