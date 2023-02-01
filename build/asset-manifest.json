@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portfolio/build/static/css/main.bc275e2e.css",
-    "main.js": "/Portfolio/build/static/js/main.37abe904.js",
+    "main.js": "/Portfolio/build/static/js/main.15d55f73.js",
     "static/media/me.png": "/Portfolio/build/static/media/me.9ccd3607aa75be206f05.png",
-    "static/media/me-about.jpg": "/Portfolio/build/static/media/me-about.b82efa2ba196875ca9a0.jpg",
+    "static/media/aboutMe.jpg": "/Portfolio/build/static/media/aboutMe.b82efa2ba196875ca9a0.jpg",
     "static/media/portfolio2.jpg": "/Portfolio/build/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio1.jpg": "/Portfolio/build/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/portfolio3.jpg": "/Portfolio/build/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/Masliak_Sofia_Front-End_Developer_CV.pdf": "/Portfolio/build/static/media/Masliak_Sofia_Front-End_Developer_CV.2983309ede78fd1f09d9.pdf",
     "index.html": "/Portfolio/build/index.html",
     "main.bc275e2e.css.map": "/Portfolio/build/static/css/main.bc275e2e.css.map",
-    "main.37abe904.js.map": "/Portfolio/build/static/js/main.37abe904.js.map"
+    "main.15d55f73.js.map": "/Portfolio/build/static/js/main.15d55f73.js.map"
   },
   "entrypoints": [
     "static/css/main.bc275e2e.css",
-    "static/js/main.37abe904.js"
+    "static/js/main.15d55f73.js"
   ]
 }
