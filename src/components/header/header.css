@@ -38,7 +38,7 @@ header {
     width: 25rem;
     height: 30rem;
     position: absolute;
-    left: calc(47% - 11rem);
+    left: calc(49% - 11rem);
     margin-top: 3rem;
     border-radius: 12rem 12rem 0 0; 
     overflow: hidden;
@@ -78,6 +78,13 @@ header {
     .header {
         height: 100vh;
     } 
+
+    .me {
+        width: 25rem;
+        height: 30rem;
+        position: absolute;
+        left: calc(32% - 130px);
+    }
 
     .header__socials,
     .scroll__down {
